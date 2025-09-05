@@ -1,2 +1,2 @@
-# Conflicts-of-merge
+REMOTE
 REMOTE
